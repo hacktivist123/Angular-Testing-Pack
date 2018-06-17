@@ -1,4 +1,4 @@
-# TestingAngular
+# RandomImage
 
 <img src="assets/demo1.png" />
 <img src="assets/demo2.png" />
